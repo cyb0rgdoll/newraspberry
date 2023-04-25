@@ -44,7 +44,7 @@ Now you need an app installer, [Pi-Apps] {https://github.com/Botspot/pi-apps} is
 wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
 
 ```
-Sublime Text - https://www.sublimetext.com/
+	Sublime Text - https://www.sublimetext.com/
 
 Cross-platform source code editor with a Python application programming interface.
 It natively supports many programming languages and markup languages. Additional features can be added with plugins.
