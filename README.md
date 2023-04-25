@@ -1,8 +1,5 @@
 # newraspberry
 
-
-	New Raspberry Setup &amp; Tweaks for Beginners
-
 This repo will provde you a list of tweaks to make right and better after installing Raspberry Pi OS (formerly Raspbian) 
 on your **Raspberry Pi.**
 
