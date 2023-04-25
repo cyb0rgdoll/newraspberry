@@ -1,6 +1,7 @@
 # newraspberry
 
-![](/home/pi/Pictures/Screenshot from 2023-04-25 16-29-21.png) 
+![Screenshot from 2023-04-25 16-29-21](https://user-images.githubusercontent.com/19384876/234276433-018b2b2d-8f91-4498-99b7-3e678541b2ef.png)
+
 
 This repo will provde you a list of tweaks to make right and better after installing Raspberry Pi OS (formerly Raspbian) 
 on your **Raspberry Pi.**
